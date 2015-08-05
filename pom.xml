@@ -18,6 +18,7 @@
     </properties>
     
     <dependencies>
+        
         <!-- Java EE-->
         <dependency>
             <groupId>javax</groupId>
